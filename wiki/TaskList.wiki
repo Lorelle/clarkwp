@@ -11,3 +11,4 @@ The following is a general to do list for ClarkWP SVN. It is for the instructors
  # Add labels to categorize wiki pages as tutorials, etc. No hurry.
  # Figure out and explain how to edit an issue if a mistake is made.
   * I'm not finding anything except that we can't change it if it has been "commited" but these are issues, not commits. May email a friend and ask. I can't find anything, but maybe you can while we wait for a reply. ARGH. 
+ # Add link to http://code.google.com/p/support/wiki/WikiSyntax to help students write Wiki pages if we think of a reason why they should. Book mark this for ourselves, too. :D
