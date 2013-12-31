@@ -1,0 +1,11 @@
+#summary Our working to do list for this project.
+#labels Task-ToDo
+
+= To Do List =
+
+The following is a general to do list for ClarkWP SVN. It is for the instructors only.
+
+# Include how to link to issues by typing issue 61 in the descriptions and comments. This will be used to identify related articles, articles that must be published first, etc.
+# Descriptions of every Open and Closed Status (that is applicable)
+# Descriptions of every Label and how to use them
+# Add labels to categorize wiki pages as tutorials, etc. No hurry.
