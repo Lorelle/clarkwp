@@ -9,3 +9,5 @@ The following is a general to do list for ClarkWP SVN. It is for the instructors
 # Descriptions of every Open and Closed Status (that is applicable)
 # Descriptions of every Label and how to use them
 # Add labels to categorize wiki pages as tutorials, etc. No hurry.
+# Figure out and explain how to edit an issue if a mistake is made.
+** I'm not finding anything except that we can't change it if it has been "commited" but these are issues, not commits. May email a friend and ask. I can't find anything, but maybe you can while we wait for a reply. ARGH. 
