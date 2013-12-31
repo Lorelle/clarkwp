@@ -1,0 +1,9 @@
+#summary WordPress
+#labels Task-Done
+
+= What is WordPress? =
+
+WordPress is an open source, free web publishing platform. It comes in two versions:
+
+# Self-hosted WordPress: WordPress downloaded and installed from WordPress.org to a self-hosted server using a specific domain name, or integrated into an existing site.
+# WordPress MS: WordPress MS is WordPress Multisite (formerly WordPress MU (Multi User)). It is a single installation of WordPress that features multiple sites set as dependent or independent of the "parent" site. WordPress.com (hosted version of WordPress) is one example, as is WP Engine (managed version of WordPress). 
