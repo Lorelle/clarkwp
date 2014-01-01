@@ -1,0 +1,37 @@
+<strong>Lorelle: This is a work-in-progress, which isn't finished, but feel free to edit as necessary.</strong>
+
+This page will detail how students can submit article suggestions for the ClarkWP magazine site.
+
+We will be using Subversion (SVN) in Google to track the different articles that will eventually be published on the ClarkWP magazine site.
+
+http://code.google.com/p/clarkwp/
+
+This is what is used by !WordPress for two purposes. It is the version tracking program (Trac) for managing !WordPress core development. It is also used to create the !WordPress Handbooks, the books for development, users, Themes, and Plugins inspired by the Subversion Handbook, written entirely in Subversion. This allows tracking of version-specific documentation.
+
+<H2><strong>How to Submit an Article Suggestion in SVN</strong></h2>
+
+Detailed instructions are included in this wiki, but here are the basics:
+
+To submit an "issue," which would be a task, article suggestion, tutorial, commentary, or other, follow these instructions:
+<ol>
+<li>Go to Issues</li>
+<li>Click New Issue</li>
+<li>Template: Select the template type from the drop-down menu (default is 'Article Suggestion')</li>
+<li>Summary: Fill in a short summary of the task or article.</li>
+<li>Description: Fill in the template to the best of your ability to outline the specifics of the article or task. 
+<ul>
+<li>Note: Choose the appropriate 'Skills' from the list provided and delete  those that are not applicable.</li>
+</ul>
+</li>
+<li>Status: The status should be set as 'New,' which is the default.</li>
+<li>Owner: Leave Owner as blank. Students will accept ownership.</li>
+<li>Cc: Leave blank</li>
+<li>Labels: Fill in labels. Labels are predefined and some will already contain a default value. For those without a default value, click in the label box and a drop-down list of options to choose from will appear.</li>
+<li>Be sure to click the "Submit Issue" button at the bottom before exiting the screen.</li>
+</ol>
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
