@@ -6,7 +6,7 @@ We will be using Subversion (SVN) in Google to track the different articles that
 
 SVN is used by !WordPress for two purposes. It is the version tracking program (Trac) for managing !WordPress core development. It is also used to create the !WordPress Handbooks, the books for development, users, Themes, and Plugins inspired by the Subversion Handbook, written entirely in Subversion. This allows tracking of version-specific documentation. 
 
-<strong><h2>How to Submit an article for review in SVN.</h2></strong>
+==How to Submit an article for review in SVN.==
 
 = Introduction =
 
