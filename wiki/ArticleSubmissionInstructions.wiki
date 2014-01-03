@@ -2,7 +2,7 @@ This page will detail how students can submit articles for the ClarkWP magazine 
 
 We will be using Subversion (SVN) in Google to track the different articles that will eventually be published on the ClarkWP magazine site.
 
-<a href="Subversive for ClarkWP
+<a href="http://code.google.com/p/clarkwp/">Subversive for ClarkWP</a>
 
 SVN is used by !WordPress for two purposes. It is the version tracking program (Trac) for managing !WordPress core development. It is also used to create the !WordPress Handbooks, the books for development, users, Themes, and Plugins inspired by the Subversion Handbook, written entirely in Subversion. This allows tracking of version-specific documentation. 
 
