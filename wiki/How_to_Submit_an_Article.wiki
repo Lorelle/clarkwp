@@ -8,8 +8,6 @@ SVN is used by !WordPress for two purposes. It is the version tracking program (
 
 ==How to Submit an article for review in SVN.==
 
-Detailed instructions are included in this wiki, but here are the basics:
-
 From the ClarkWP Project Home page, click on "Issues"
 
 http://lorelleteaches.files.wordpress.com/2014/01/issuestab.png
