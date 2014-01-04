@@ -7,3 +7,27 @@ We will be using Subversion (SVN) in Google to track the different articles that
 SVN is used by !WordPress for two purposes. It is the version tracking program (Trac) for managing !WordPress core development. It is also used to create the !WordPress Handbooks, the books for development, users, Themes, and Plugins inspired by the Subversion Handbook, written entirely in Subversion. This allows tracking of version-specific documentation.
 
 ==How to Submit an article for review in SVN.==
+
+Detailed instructions are included in this wiki, but here are the basics:
+
+From the ClarkWP Project Home page, click on "Issues"
+
+http://lorelleteaches.files.wordpress.com/2014/01/issuestab.png
+
+Browse the list of Articles and choose the one that you want to write about. In making your selection, consider the Topic and Skill Level. 
+http://lorelleteaches.files.wordpress.com/2014/01/topicskill.png
+
+Hover over the ID# to get a quick view of the article requirement details. After reviewing click on the “X” to close it or click on the ID# again to open it. 
+http://lorelleteaches.files.wordpress.com/2014/01/hoverclose.png
+
+
+You can also browse by opening an Article and using the Prev Next buttons on the right-hand side of the screen.
+http://lorelleteaches.files.wordpress.com/2014/01/prevnext.png
+
+
+Once you find the article that you want to write about, click on “Add a comment and make changes below.” A new section will appear.
+http://lorelleteaches.files.wordpress.com/2014/01/addacomment.png
+
+
+In this section, click into the “Status” field and change “New” to “Accepted.” Add a comment and then click the “Save Changes” button.
+http://lorelleteaches.files.wordpress.com/2014/01/accepted.png
