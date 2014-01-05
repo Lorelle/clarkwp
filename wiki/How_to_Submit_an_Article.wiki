@@ -29,11 +29,11 @@ http://lorelleteaches.files.wordpress.com/2014/01/pending.png
 
   # *Copy the URL of the post and paste the link in the comments section of ClarkWP SVN
   # Make a comment that specifies the article is ready for review and indicate if anything may need extra attention from the editor 
-  # Change the Status to 'Review' 
-  # Click Save Changes*
+  # Change the Status to *Review*
+  # Click *Save Changes*
 
-*Note: The link to your draft article must be the link from the post view screen of the ClarkWP magazine site. You can tell if it's correct if it contains the word 'true' 
-({{{http://clarkwp.wordpress.com/?p=2099&preview=true}}})*
+*Note: The link to your draft article must be the link from the post preview screen of the ClarkWP magazine site. You can tell if it's correct if it contains the word 'true' 
+{{{http://clarkwp.wordpress.com/?p=2099&preview=true}}}*
 
 http://lorelleteaches.files.wordpress.com/2014/01/articlereview1.png
 
