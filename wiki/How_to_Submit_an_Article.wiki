@@ -15,14 +15,14 @@ SVN is used by !WordPress for two purposes. It is the version tracking program (
 
 http://lorelleteaches.files.wordpress.com/2014/01/issuestab.png
 
-Browse the list of Articles and choose the one that you would like to write about. In making your selection, consider the Topic and Skill Level. 
+===Browse the list of Articles and choose the one that you would like to write about. In making your selection, consider the Topic and Skill Level.=== 
 http://lorelleteaches.files.wordpress.com/2014/01/topicskill.png
 
-Hover over the ID# to get a quick view of the article requirement details. After reviewing click the “X” to close it or click on the ID# again to open it. 
+===Hover over the ID# to get a quick view of the article requirement details. After reviewing click the “X” to close it or click on the ID# again to open it.=== 
 http://lorelleteaches.files.wordpress.com/2014/01/hoverclose.png
 
 
-You can also browse by opening an Article and using the Prev Next buttons on the right-hand side of the screen.
+===You can also browse by opening an Article and using the Prev Next buttons on the right-hand side of the screen.===
 http://lorelleteaches.files.wordpress.com/2014/01/prevnext.png
 
 
