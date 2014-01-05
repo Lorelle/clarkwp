@@ -1,0 +1,32 @@
+#summary Definition and description of Subversion Version Tracking System
+#labels Featured,Phase-Support
+
+= Introduction =
+
+[http://subversion.apache.org/ Subversion] is an open source version control system - a tracking system for programming code. It is used by WordPress and other software and programming companies to track bug reports, issues, improvements, and changes to code, and maintain a historical record of development.
+
+Subversion (SVN) is open source and distributed as free software under Apache's license, the web server folks. 
+
+There are a variety of third-party applications that layer themselves over SVN to improve access and add additional features.
+
+This [http://en.wikipedia.org/wiki/Apache_Subversion Wikipedia article] explains the history and development of Subversion. 
+
+== Why are we using Subversion? ==
+
+WordPress uses Subversion as the underlying version tracking database for their [https://core.trac.wordpress.org/ WordPress Trac] system, tracking changes to WordPress core. It is also used by other WordPress code projects and many WordPress Plugin authors, and a few programmers and developers working on WordPress Themes. 
+
+It is also used by many companies to track web programming and development projects.
+
+We are using the free hosted version of Subversion on Google Code Project Hosting to introduce you to the most basic of SVN commands and functions. 
+
+ClarkWP is an ongoing project, moving from quarter to quarter. We need a way of tracking the progress and accomplishments of the student-run magazine. 
+
+While there are better options for this, by using the basic Issues tracking and status functionality of Subversion, the student is introduced to a tool they will likely use in future classes as well as within the work environment. 
+
+In general, we are using Subversion as a great task list, understating the power in its simple layout.
+
+Google Code Project Hosting also includes a Wiki, and you are reading a page in it. Throughout the course there may be times students will be asked to write up tutorials and guides for working with ClarkWP and ClarkWP SVN. 
+
+The [http://codex.wordpress.org WordPress Codex] is a wiki. Contributors to the Codex are required to learn how to write wiki-markup. Many developers and programmers place support documentation on wikis for clients and the public.
+
+This is all a good introduction and good practice for the real world, as simple as we can make it. 
