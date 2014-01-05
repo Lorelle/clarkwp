@@ -29,3 +29,7 @@ http://lorelleteaches.files.wordpress.com/2014/01/addacomment.png
 
 In this section, click into the “Status” field and change “New” to “Accepted.” Add a comment and then click the “Save Changes” button.
 http://lorelleteaches.files.wordpress.com/2014/01/accepted.png
+
+Write your draft article as a new post in the <a href="http://clarkwp.wordpress.com/">ClarkWP Magazine</a> site and set the status as 'Pending review.' Copy the URL of the post and paste 
+
+http://lorelleteaches.files.wordpress.com/2014/01/pending.png
