@@ -30,6 +30,13 @@ http://lorelleteaches.files.wordpress.com/2014/01/addacomment.png
 In this section, click into the “Status” field and change “New” to “Accepted.” Add a comment and then click the “Save Changes” button.
 http://lorelleteaches.files.wordpress.com/2014/01/accepted.png
 
-Write your draft article as a new post in the <a href="http://clarkwp.wordpress.com/">ClarkWP Magazine</a> site and set the status as 'Pending review.' Copy the URL of the post and paste 
-
+Write your draft article as a new post in the <a href="http://clarkwp.wordpress.com/">ClarkWP Magazine</a> site and set the status as 'Pending review.' 
 http://lorelleteaches.files.wordpress.com/2014/01/pending.png
+
+
+Copy the URL of the post and paste the link in the comments section of ClarkWP SVN and change the Status to 'Review,' then Save Changes.
+
+Note: The link to your draft article must be the link from the post view screen of the ClarkWP magazine site. You can tell if it's correct if it contains the word 'true' 
+({{{http://clarkwp.wordpress.com/?p=2099&preview=true}}})
+
+http://lorelleteaches.files.wordpress.com/2014/01/articlereview1.png
