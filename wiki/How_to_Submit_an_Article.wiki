@@ -1,15 +1,5 @@
 #labels Featured
-= How to Submit an Article through ClarkWP SVN = 
-
-This page will detail how students can submit articles for the ClarkWP magazine site.
-
-We will be using Subversion (SVN) in Google to track the different articles that will eventually be published on the ClarkWP magazine site.
-
-<a href="http://code.google.com/p/clarkwp/">Subversive for ClarkWP</a>
-
-SVN is used by !WordPress for two purposes. It is the version tracking program (Trac) for managing !WordPress core development. It is also used to create the !WordPress Handbooks, the books for development, users, Themes, and Plugins inspired by the Subversion Handbook, written entirely in Subversion. This allows tracking of version-specific documentation.
-
-==How to Submit an article for review in SVN.==
+= How to Submit an Article for review = 
 
 ===From the ClarkWP Project Home page, click on "Issues"===
 
