@@ -1,10 +1,9 @@
 #labels Featured
-
 ==How to Submit an Article Suggestion in SVN==
 
 Detailed instructions are included in this wiki, but here are the basics:
 
-To submit an article suggestion follow these instructions:
+To submit an article suggestion:
   
     # Go to Issues
     # Click New Issue
