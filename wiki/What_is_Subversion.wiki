@@ -3,7 +3,7 @@
 
 = Introduction =
 
-[http://subversion.apache.org/ Subversion] is an open source version control system - a tracking system for programming code. It is used by WordPress and other software and programming companies to track bug reports, issues, improvements, and changes to code, and maintain a historical record of development.
+[http://subversion.apache.org/ Subversion] is an open source version control system - a tracking system for programming code. It is used by !WordPress and other software and programming companies to track bug reports, issues, improvements, and changes to code, and maintain a historical record of development.
 
 Subversion (SVN) is open source and distributed as free software under Apache's license, the web server folks. 
 
@@ -13,7 +13,7 @@ This [http://en.wikipedia.org/wiki/Apache_Subversion Wikipedia article] explains
 
 == Why are we using Subversion? ==
 
-WordPress uses Subversion as the underlying version tracking database for their [https://core.trac.wordpress.org/ WordPress Trac] system, tracking changes to WordPress core. It is also used by other WordPress code projects and many WordPress Plugin authors, and a few programmers and developers working on WordPress Themes. 
+!WordPress uses Subversion as the underlying version tracking database for their [https://core.trac.wordpress.org/ WordPress Trac] system, tracking changes to !WordPress core. It is also used by other !WordPress code projects and many !WordPress Plugin authors, and a few programmers and developers working on !WordPress Themes. 
 
 It is also used by many companies to track web programming and development projects.
 
