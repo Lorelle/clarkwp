@@ -5,16 +5,16 @@ Detailed instructions are included in this wiki, but here are the basics:
 
 To submit an article suggestion:
   
-    # Go to Issues
-    # Click New Issue
-    # Template: Select the template type from the drop-down menu (default is 'Article Suggestion')
-    # Summary: Fill in a short summary of the task or article.
-    # Description: Fill in the template to the best of your ability to outline the specifics of the article or task. Note: Choose the appropriate 'Skills' from the list provided and delete those that are not applicable.
-    # Status: The status should be set as 'New,' which is the default,
-    # Owner: Leave Owner as blank. Students will accept ownership.
-    # Cc: Leave blank
-    # Labels: Fill in labels. Labels are predefined and some will already contain a default value. For those without a default value, click in the label box and a drop-down list of options to choose from will appear. See more About Labels below.
-    # Be sure to click the "Submit Issue" button at the bottom before exiting the screen.
+    # Go to *Issues*
+    # Click *New Issue*
+    # *Template:* Select the template type from the drop-down menu (default is 'Article Suggestion')
+    # *Summary:* Fill in a short summary of the task or article.
+    # *Description:* Fill in the template to the best of your ability to outline the specifics of the article or task. Note: Choose the appropriate 'Skills' from the list provided and delete those that are not applicable.
+    # *Status:* The status should be set as 'New,' which is the default,
+    # *Owner:* Leave Owner as blank. Students will accept ownership.
+    # *Cc:* Leave blank
+    # *Labels:* Fill in labels. Labels are predefined and some will already contain a default value. For those without a default value, click in the label box and a drop-down list of options to choose from will appear. See more About Labels below.
+    # Be sure to click the *"Submit Issue"* button at the bottom before exiting the screen.
 
 http://lorelleteaches.files.wordpress.com/2014/01/entryscreen.png
 
