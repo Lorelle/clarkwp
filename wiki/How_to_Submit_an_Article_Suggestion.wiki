@@ -21,5 +21,13 @@ To submit an article suggestion follow these instructions:
     # Status: The status should be set as 'New,' which is the default,
     # Owner: Leave Owner as blank. Students will accept ownership.
     # Cc: Leave blank
-    # Labels: Fill in labels. Labels are predefined and some will already contain a default value. For those without a default value, click in the label box and a drop-down list of options to choose from will appear.
+    # Labels: Fill in labels. Labels are predefined and some will already contain a default value. For those without a default value, click in the label box and a drop-down list of options to choose from will appear. See About Labels below.
     # Be sure to click the "Submit Issue" button at the bottom before exiting the screen.
+
+http://lorelleteaches.files.wordpress.com/2014/01/entryscreen.png
+
+About Labels: 
+Click into the 'Topic' field and choose the appropriate label that best describes what the article should be about. 
+Set the Skill level. Skill levels are defined 
+
+http://lorelleteaches.files.wordpress.com/2014/01/topiclabels.png
