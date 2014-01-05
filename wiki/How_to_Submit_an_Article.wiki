@@ -34,9 +34,11 @@ Write your draft article as a new post in the <a href="http://clarkwp.wordpress.
 http://lorelleteaches.files.wordpress.com/2014/01/pending.png
 
 
-Copy the URL of the post and paste the link in the comments section of ClarkWP SVN and change the Status to 'Review,' then Save Changes.
+Copy the URL of the post and paste the link in the comments section of ClarkWP SVN. Make a comment that specifies the article is ready and indicate if anything may need extra attention from the editor, change the Status to 'Review,' then Save Changes.
 
 Note: The link to your draft article must be the link from the post view screen of the ClarkWP magazine site. You can tell if it's correct if it contains the word 'true' 
 ({{{http://clarkwp.wordpress.com/?p=2099&preview=true}}})
 
 http://lorelleteaches.files.wordpress.com/2014/01/articlereview1.png
+
+Your draft article is now in the hands of the editor. The editor will decide what to do next - send it back for editing or publish it and mark it complete.
