@@ -27,7 +27,7 @@ http://lorelleteaches.files.wordpress.com/2014/01/accepted.png
 http://lorelleteaches.files.wordpress.com/2014/01/pending.png
 
 
-  # *Copy the URL of the post and paste the link in the comments section of ClarkWP SVN
+  # Copy the URL of the post and paste the link in the comments section of ClarkWP SVN
   # Make a comment that specifies the article is ready for review and indicate if anything may need extra attention from the editor 
   # Change the Status to *Review*
   # Click *Save Changes*
