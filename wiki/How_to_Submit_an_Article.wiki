@@ -23,7 +23,7 @@ http://lorelleteaches.files.wordpress.com/2014/01/addacomment.png
 ===In this section, click into the “Status” field and change “New” to “Accepted.” Add a comment and then click the “Save Changes” button.===
 http://lorelleteaches.files.wordpress.com/2014/01/accepted.png
 
-===Write your draft article as a new post in the <a href="http://clarkwp.wordpress.com/">ClarkWP Magazine</a> site and set the status as _'Pending review.'_ Note: Articles for the Clark WP magazine should never be written or posted on your student site.=== 
+===Write your draft article as a new post in the <a href="http://clarkwp.wordpress.com/">ClarkWP Magazine</a> site and set the status as _Pending review._ Note: Articles for the Clark WP magazine should never be written or posted on your student site.=== 
 http://lorelleteaches.files.wordpress.com/2014/01/pending.png
 
 
